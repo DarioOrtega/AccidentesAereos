@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Cargar el modelo entrenado
-model = joblib.load('ML/modelo_entrenado.pkl')
+model = joblib.load('modelo_entrenado.pkl')
 
 # Crear la interfaz de usuario
 st.title("Aplicación de Predicción")
