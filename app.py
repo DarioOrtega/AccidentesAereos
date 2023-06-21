@@ -14,6 +14,6 @@ x3 = st.number_input("Valor del PIB")
 if st.button("Predecir"):
     x_values = [x1, x2, x3]
     prediction = model.predict([x_values])
-    st.success(f"La predicción es: {prediction[0]}")
+    st.success(f"La predicción para la esperanza de vida es: {prediction[0]}")
 
 
