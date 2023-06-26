@@ -1,4 +1,4 @@
-# <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
+# <h1 align=center> **Accidente Aereos** </h1>
 
 ## **Descripción del proyecto**
 
